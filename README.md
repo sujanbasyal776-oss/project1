@@ -1,3 +1,3 @@
 # project1
 this is my first repository<br>
-author:sujan basyal
+Author:sujan basyal
